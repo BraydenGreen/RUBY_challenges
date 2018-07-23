@@ -4,7 +4,7 @@ require 'colorized_string'
 require 'whirly'
 require 'paint'
 
-list = %w(Chandler Josh Dan Matt TJ Chris Ozzy Brayden)
+list = %w(Regan Matt Sean Dino Manuel Selma Mike Matthew Caleb Luis Luke Chet)
 class SortingHat
 
 	def self.greeting(list)
